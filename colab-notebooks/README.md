@@ -31,31 +31,31 @@ If you wish to disable the spatial measurements associated with the detected obj
 `python3 depthai_demo.py -dd -cnn <your folder name>`
 
 
-### Tiny YoloV3 and YoloV4 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/YoloV3_V4_tiny_training.ipynb)
+### Tiny YoloV3 and YoloV4 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/YoloV3_V4_tiny_training.ipynb)
 
 These tutorial shows how to train an object detector based on the YoloV4-tiny and YoloV3-tiny networks. It describes the right data format, training steps, and provides further information.
 
 ![TinyYoloV4Example](https://user-images.githubusercontent.com/56075061/143061151-07157024-4189-420d-b603-2cb3ec926bf5.png)
 
-### YOLOv5 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/YoloV5_training.ipynb)
+### YOLOv5 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/YoloV5_training.ipynb)
 N
 This tutorial shows you how to train the popular YOLOv5 model and then deploy it on your OAK model.
 
 ![asdfasdfdsasdf](https://user-images.githubusercontent.com/32992551/135535957-4c945ff0-1ed7-43c8-8be5-f2efebb84f19.png)
 
-### YOLOv6 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/YoloV6_training.ipynb)
+### YOLOv6 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/YoloV6_training.ipynb)
 
 This tutorial shows you how to train the popular YOLOv6 model and then deploy it on your OAK model.
 
-### YOLOv7 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/YoloV7_training.ipynb)
+### YOLOv7 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/YoloV7_training.ipynb)
 
 This tutorial shows you how to train the popular YOLOv7 model and then deploy it on your OAK model.
 
-### YOLOv8 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/YoloV8_training.ipynb)
+### YOLOv8 Object Detector Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/YoloV8_training.ipynb)
 
 This tutorial shows you how to train the popular YOLOv8 model and then deploy it on your OAK model.
 
-### Deeplabv3 Plus Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/DeepLabV3plus_MNV2.ipynb)
+### Deeplabv3 Plus Training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/DeepLabV3plus_MNV2.ipynb)
 
 This tutorial shows you how to train semantic-segmentation networks with Deeplabv3+ with a MobileNetv2 backbone. 
 
@@ -74,25 +74,25 @@ This semantic segmentation could be combined with depth information from DepthAI
 See this Gen2 API example for running this on DepthAI:
 https://github.com/luxonis/depthai-experiments/tree/master/gen2-deeplabv3_person
 
-### Simple Neural Network trained on image classification task using Tensorflow [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/OpenVINO_OpenCV_OAK_Tensorflow_Image_Classification.ipynb)
+### Simple Neural Network trained on image classification task using Tensorflow [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/OpenVINO_OpenCV_OAK_Tensorflow_Image_Classification.ipynb)
 
 This tutorial shows you how to train a simple image classification model using Tensorflow and then export it.
 
 ## Supporting Notebooks
 
-### Image Resize in Google Drive [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/GDrive-Resize.ipynb)
+### Image Resize in Google Drive [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/GDrive-Resize.ipynb)
 
 This notebook operates on your set of images in Google Drive to resize them to the format needed by the training notebooks.  See our documentation [here](https://docs.luxonis.com/tutorials/object_det_mnssv2_training/#step-1-find-or-generate-images-of-the-objects-of-interest) for more details.
 
 ## Deprecated tutorials
 
 * Old YoloV3-tiny tutorial
-    [Open In Colab](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/Easy_TinyYolov3_Object_Detector_Training_on_Custom_Data.ipynb)
+    [Open In Colab](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/Easy_TinyYolov3_Object_Detector_Training_on_Custom_Data.ipynb)
 * Old YoloV4-tiny tutorial
-    [Open In Colab](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/Easy_TinyYOLOv4_Object_Detector_Training_on_Custom_Data.ipynb)
+    [Open In Colab](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/Easy_TinyYOLOv4_Object_Detector_Training_on_Custom_Data.ipynb)
 * Old MobileNetSSDv2 tutorial 
-    [Open In Colab](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/Easy_Object_Detection_Demo_Training.ipynb)
+    [Open In Colab](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/Easy_Object_Detection_Demo_Training.ipynb)
 * Old MobileNetSSDv2 tutorial for medical masks 
-    [Open In Colab](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/Medical_Mask_Detection_Demo_Training.ipynb)
+    [Open In Colab](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/Medical_Mask_Detection_Demo_Training.ipynb)
 * Old MobileNetSSDv2 training with your own data tutorial
-    [Open In Colab](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/master/colab-notebooks/Easy_Object_Detection_With_Custom_Data_Demo_Training.ipynb)
+    [Open In Colab](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/master/colab-notebooks/Easy_Object_Detection_With_Custom_Data_Demo_Training.ipynb)
