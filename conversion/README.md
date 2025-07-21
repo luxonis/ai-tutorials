@@ -7,16 +7,16 @@ Here, we present tutorials on converting ML models to our cameras. For that, we 
 
 ## Tutorials
 
-### Conversion of PyTorch Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/main/conversion/pytorch_conversion.ipynb)
+### Conversion of PyTorch Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/conversion/pytorch_conversion.ipynb)
 
 **Description:** This tutorial shows how to use **ModelConverter** to convert a pre-trained ResNet18 model from PyTorch to RVC2/RVC4 and how to run the converted model on a device.
 
 
-### Conversion of ONNX Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/main/conversion/onnx_conversion.ipynb)
+### Conversion of ONNX Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/conversion/onnx_conversion.ipynb)
 
 **Description:** This tutorial shows how to use **ModelConverter** to convert a pre-trained FFNet-40S model from ONNX to RVC2/RVC4 from HuggingFace and how to run the converted model on a device.
 
-### Conversion of NVIDIA TAO Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training/blob/main/conversion/nvidia_tao_conversion.ipynb)
+### Conversion of NVIDIA TAO Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/conversion/nvidia_tao_conversion.ipynb)
 
 **Description:** This tutorial shows how to use **ModelConverter** to convert a pre-trained ReIdentificationNet model from [NVIDIA TAO](https://developer.nvidia.com/tao-toolkit) to RVC2/RVC4 and how to run the converted model on a device.
 
