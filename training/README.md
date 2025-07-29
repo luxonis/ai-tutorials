@@ -85,9 +85,9 @@ The resulting dataset can then be used to train models with `luxonis-train`.
 
 **Description:** This tutorial shows how to use **DataDreamer** to enrich an existing dataset by generating more samples, train a semantic segmentation model using **Luxonis-Train**, its conversion using **ModelConverter**, and how to run the trained model on a Luxonis device using **DepthAI v3**.
 
-### Instance Segmentation Training with Roboflow Dataset Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/feat/roboflow-dataset-integration/training/train_instance_segmentation_model_roboflow_solderdefects.ipynb)
+### Instance Segmentation Training with Roboflow Dataset Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/training/train_roboflow_dataset.ipynb)
 
-**Description:** This tutorial shows how to train an instance segmentation model using **Luxonis-Train**, its conversion using **ModelConverter**, and how to run the trained model on a Luxonis device using **DepthAI v3**. It uses a public dataset from Roboflow.
+**Description:** This tutorial shows how to train an instance segmentation model using **Luxonis-Train** from a **Roboflow** dataset, its conversion using **ModelConverter**, and how to run the trained model on a Luxonis device using **DepthAI v3**. It uses a public dataset from Roboflow.
 
 ### Instance Segmentation Training with Dataset Generation Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/training/train_instance_segmentation_model.ipynb)
 
