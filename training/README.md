@@ -24,6 +24,7 @@ Additionally, we cover how to train popular models such as:
   - [Object Detection Training with DataDreamer Tutorial](#object-detection-training-with-datadreamer-tutorial-)
   - [Semantic Segmentation Training with Dataset Generation Tutorial](#semantic-segmentation-training-with-dataset-generation-tutorial-)
   - [Instance Segmentation Training with Dataset Generation Tutorial](#instance-segmentation-training-with-dataset-generation-tutorial-)
+  - [Instance Segmentation Training with Roboflow Dataset Tutorial](#instance-segmentation-training-with-roboflow-dataset-tutorial-)
   - [Custom Segmentation Model Training Tutorial](#custom-segmentation-model-training-tutorial-)
   - [Custom Loader for Detection: VOC Training Tutorial](#custom-loader-detection-voc-training-tutorial-)
 - [✨ Additional DataDreamer Tutorials](#-additional-datadreamer-tutorials)
@@ -83,6 +84,10 @@ The resulting dataset can then be used to train models with `luxonis-train`.
 ### Semantic Segmentation Training with Dataset Generation Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/training/train_semantic_segmentation_model_datadreamer.ipynb)
 
 **Description:** This tutorial shows how to use **DataDreamer** to enrich an existing dataset by generating more samples, train a semantic segmentation model using **Luxonis-Train**, its conversion using **ModelConverter**, and how to run the trained model on a Luxonis device using **DepthAI v3**.
+
+### Instance Segmentation Training with Roboflow Dataset Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/training/train_roboflow_dataset.ipynb)
+
+**Description:** This tutorial shows how to train an instance segmentation model using **Luxonis-Train** from a **Roboflow** dataset, its conversion using **ModelConverter**, and how to run the trained model on a Luxonis device using **DepthAI v3**. It uses a public dataset from Roboflow.
 
 ### Instance Segmentation Training with Dataset Generation Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/training/train_instance_segmentation_model.ipynb)
 
