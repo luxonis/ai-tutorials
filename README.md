@@ -1,10 +1,10 @@
-# DepthAI ML Training
+# AI Tutorials
 
 > [!IMPORTANT]  
 > We are currently writing new tutorials and updating the old ones, meaning that some details may be outdated. We appreciate your understanding!
 
 > [!IMPORTANT]
-> All our tutorials requires `DepthAI v3`. If you're looking for tutorials using `DepthAI v2`, please look [here](https://github.com/luxonis/depthai-ml-training/tree/master).
+> All our tutorials requires `DepthAI v3`. If you're looking for tutorials using `DepthAI v2`, please look [here](https://github.com/luxonis/ai-tutorials/tree/master).
 
 <a name ="overview"></a>
 
@@ -13,11 +13,9 @@
 This repository contains step by step tutorials on how to:
 
 - Train your own Machine Learning (ML) model - either on default or custom dataset.
-- Convert the ML model so it's compatible with the [DepthAI v3](https://rvc4.docs.luxonis.com/software/) platform.
+- Convert the ML model so it's compatible with the [DepthAI v3](https://docs.luxonis.com/software-v3/depthai/) platform.
 
-### What is DepthAI?
-
-**DepthAI** is the platform for [Spatial AI](https://rvc4.docs.luxonis.com/software/perception/spatial-ai/). We've prepared several demos for various purposes; check out [this repository](https://github.com/luxonis/depthai-experiments/tree/gen3) to learn more about them.
+We've also prepared several demos for various purposes; check out [this repository](https://github.com/luxonis/oak-examples/tree/main) to learn more about them.
 
 ## 📜 Table of contents
 
@@ -31,7 +29,7 @@ This repository contains step by step tutorials on how to:
 
 ## 📂 Repository Structure
 
-    depthai-ml-training/
+    ai-tutorials/
     ├── conversion/                         - Folder with tutorials about ML model conversion
     │   ├── ...
     │   └── README.md                       - Describes the conversion tutorials
@@ -56,7 +54,7 @@ Google Colaboratory allows you to train neural models yourself using their fast 
 
 It is exactly intended for this proof of concept and initial research.  And if you hit the limits of the free account, you can upgrade to a Pro version of Google Colab for only $10/month.
 
-You can browse (and open/use) all the Jupyter Notebooks in this repo by clicking on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/depthai-ml-training).
+You can browse (and open/use) all the Jupyter Notebooks in this repo by clicking on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials).
 
 <a name="license"></a>
 
