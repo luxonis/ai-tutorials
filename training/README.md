@@ -27,6 +27,7 @@ Additionally, we cover how to train popular models such as:
   - [Instance Segmentation Training with Roboflow Dataset Tutorial](#instance-segmentation-training-with-roboflow-dataset-tutorial-)
   - [Custom Segmentation Model Training Tutorial](#custom-segmentation-model-training-tutorial-)
   - [Custom Loader for Detection: VOC Training Tutorial](#custom-loader-detection-voc-training-tutorial-)
+  - [OCR Recognition Training Tutorial](#ocr-recognition-training-tutorial-)
 - [✨ Additional DataDreamer Tutorials](#-additional-datadreamer-tutorials)
   - [Object Detection, Dataset Generation, and YOLOv8 training](#object-detection-dataset-generation-and-yolov8-training-)
   - [Helmet Detection, Dataset Generation, and YOLOv8 training](#helmet-detection-dataset-generation-and-yolov8-training-)
@@ -104,6 +105,11 @@ The resulting dataset can then be used to train models with `luxonis-train`.
 ### Custom Loader for Detection: VOC Training Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/training/luxonis_train_custom_loader.ipynb)
 
 **Description:** This tutorial demonstrates how to use a custom data loader based on `BaseLoaderTorch` to train object detection models on the VOC dataset using **LuxonisTrain**.
+
+
+### OCR Recognition Training Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/training/train_ocr_tutorial.ipynb)
+
+**Description:** This tutorial shows how to train an OCR text recognition model using **Luxonis-Train**, starting from a synthetic dataset built with OpenCV and `LuxonisDataset`. It covers training, validation/testing, model export and archiving, and conversion for deployment on Luxonis devices.
 
 
 ## ✨ Additional DataDreamer Tutorials
