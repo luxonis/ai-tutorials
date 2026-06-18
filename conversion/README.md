@@ -22,4 +22,4 @@ Here, we present tutorials on converting ML models to our cameras. For that, we 
 
 ### Conversion of RF-DETR to RVC4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luxonis/ai-tutorials/blob/main/conversion/rfdetr_rvc4_conversion.ipynb)
 
-**Description:** This tutorial shows how to export RF-DETR to ONNX, package it as a Luxonis NN Archive, convert it to RVC4 with HubAI, and run the converted model on an RVC4 device with DepthAI.
+**Description:** This tutorial shows how to export RF-DETR detection or segmentation variants to ONNX, package them as a Luxonis NN Archive, convert them to RVC4 with HubAI, and run the converted model on an RVC4 device with DepthAI.
